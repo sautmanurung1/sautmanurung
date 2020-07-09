@@ -1,0 +1,22 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\saut manurung\Documents\NetBeansProjects\Kalkulator_konversi\dist\Kalkulator_konversi.jar</jar>
+  <outfile>C:\Users\saut manurung\Documents\NetBeansProjects\Kalkulator_konversi\konversi.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\saut manurung\Downloads\copy_icon_143213.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.0.0_00</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+</launch4jConfig>
